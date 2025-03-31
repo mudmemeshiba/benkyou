@@ -1,0 +1,35 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#F5D1D1",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "RealHome",
+      "isDefault": true
+    },
+    {
+      "id": "Main",
+      "isDefault": false
+    },
+    {
+      "id": "AdminPage",
+      "isDefault": false
+    },
+    {
+      "id": "Students Data",
+      "isDefault": false
+    },
+    {
+      "id": "TutorPage",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  }
+}

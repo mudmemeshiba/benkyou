@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c32501352cc33eef815a97_42fd69af-8c0e-4188-8066-dfaafc2d80dc",
+  "id": "AdminPage_CourseInsert",
+  "unpublishedCollection": {
+    "name": "CourseInsert",
+    "pageId": "AdminPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

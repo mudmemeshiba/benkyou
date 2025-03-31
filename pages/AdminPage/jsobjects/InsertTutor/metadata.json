@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c32501352cc33eef815a97_afdca4e1-c443-4858-8df8-f5bbf7f7dbbc",
+  "id": "AdminPage_InsertTutor",
+  "unpublishedCollection": {
+    "name": "InsertTutor",
+    "pageId": "AdminPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 7,
+  "boxShadow": "none",
+  "defaultOptionValue": "null",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onOptionChange"
+    },
+    {
+      "key": "onDropdownClose"
+    }
+  ],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "qon7aw0wym",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "ShowData",
+  "labelTextColor": "#246160",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 10,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 15,
+  "mobileLeftColumn": 10,
+  "mobileRightColumn": 30,
+  "mobileTopRow": 8,
+  "needsErrorInfo": false,
+  "onDropdownClose": "",
+  "onOptionChange": "{{SelectChange.Select1onOptionChange();}}",
+  "optionLabel": "name",
+  "optionValue": "code",
+  "parentColumnSpace": 17.28125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 24,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"name\": \"OnlineCourses\",\n    \"code\": \"OnlineModal\"\n  },\n  {\n    \"name\": \"OnsiteCourses\",\n    \"code\": \"OnsiteModal\"\n  },\n  {\n    \"name\": \"Students\",\n    \"code\": \"StudentsModal\"\n  },\n  {\n    \"name\": \"Tutors\",\n    \"code\": \"TutorsModal\"\n  },  \n\t{\n    \"name\": \"Subjects\",\n    \"code\": \"SubjectsModal\"\n  },\n  {\n    \"name\": \"Coupons\",\n    \"code\": \"CouponsModal\"\n  },\n\t{\n    \"name\": \"Pending Enrollment\",\n    \"code\": \"PendingModal\"\n  }\n]",
+  "topRow": 0,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "m6s3y3yzxo",
+  "widgetName": "Select1"
+}

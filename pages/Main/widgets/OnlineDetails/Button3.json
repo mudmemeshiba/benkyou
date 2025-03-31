@@ -1,0 +1,49 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 35,
+  "boxShadow": "none",
+  "buttonColor": "#246160",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "i63y0kc5xo",
+  "leftColumn": 45,
+  "minWidth": 120,
+  "mobileBottomRow": 49,
+  "mobileLeftColumn": 43,
+  "mobileRightColumn": 59,
+  "mobileTopRow": 45,
+  "needsErrorInfo": false,
+  "onClick": "{{storeValue('Sums', appsmith.store.X.price).then(() => {\n  showModal(Purchase.name);\n});}}",
+  "originalBottomRow": 34,
+  "originalTopRow": 30,
+  "parentColumnSpace": 14.90625,
+  "parentId": "p05o0wd5an",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 61,
+  "text": "Enroll Course",
+  "topRow": 31,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "4ohxt1vhbf",
+  "widgetName": "Button3"
+}

@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67c32501352cc33eef815a97_91a50015-1696-48c3-baf9-f42b71dfdf2d",
+  "id": "RealHome_InsertNewUser",
+  "unpublishedCollection": {
+    "name": "InsertNewUser",
+    "pageId": "RealHome",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}
