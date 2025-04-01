@@ -6,7 +6,6 @@ RealHome is a web application built using [Appsmith](https://www.appsmith.com/) 
 ## Features
 - Property listing management
 - Interactive UI for searching and filtering properties
-- Data visualization tools for insights
 - Role-based access control
 - Integration with external APIs
 
